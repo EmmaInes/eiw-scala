@@ -408,3 +408,7 @@ WARNING: Unmatched cancel notification for request id 8
 2024.03.05 19:01:00 INFO  time: code lens generation in 10s
 2024.03.05 19:01:00 INFO  time: code lens generation in 10s
 2024.03.05 19:01:00 INFO  time: code lens generation in 10s
+Mar 05, 2024 7:29:55 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2024.03.05 19:31:06 WARN  no build target for: C:\Users\ewahn\Documents\code\eiw-scala\src\main\scala\HelloWorld.scala
+2024.03.05 19:31:06 WARN  Could not find semantic tokens for: file:///C:/Users/ewahn/Documents/code/eiw-scala/src/main/scala/HelloWorld.scala
