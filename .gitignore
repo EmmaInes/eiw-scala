@@ -1,1 +1,7 @@
 .metals/
+.metals/metals.lock.db
+.metals/metals.sbt
+.metals/metals.sbt.db
+.metals/metals.sbt.json
+.metals/metals.sbt.json.db
+.metals/metals.mv.db
